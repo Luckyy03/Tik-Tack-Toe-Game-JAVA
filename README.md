@@ -1,7 +1,4 @@
-Perfect 👍 I see the issues — mainly **unclosed code blocks** and some **formatting inconsistencies**.
-Here’s a **clean, fixed version** of your README with your screenshots and working return button:
 
-````markdown
 # TIK-TACK-TOE-GAME-JAVA
 
 *Master Strategy. Conquer the Classic Game Instantly*
@@ -114,17 +111,4 @@ mvn test
 
 🔙 [Return](#table-of-contents)
 
-````
 
----
-
-✅ Fixes made:
-- Closed all **```bash** code blocks properly.  
-- Added missing `---` separators for readability.  
-- Fixed **Setting** title → now shown as **⚙️ Setting Screen**.  
-- Updated the **Return button** → now links back to the **Table of Contents** instead of just `#`.  
-
----
-
-Do you also want me to **merge this into a single-section version** (like you asked earlier for easier copy) or keep it structured with headings?
-````
