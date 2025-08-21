@@ -1,3 +1,7 @@
+Perfect 👍 I see the issues — mainly **unclosed code blocks** and some **formatting inconsistencies**.
+Here’s a **clean, fixed version** of your README with your screenshots and working return button:
+
+````markdown
 # TIK-TACK-TOE-GAME-JAVA
 
 *Master Strategy. Conquer the Classic Game Instantly*
@@ -17,6 +21,7 @@ Built with the tools and technologies:
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+- [Screenshots](#screenshots)
 
 ---
 
@@ -55,48 +60,71 @@ Build **Tik-Tack-Toe-Game-JAVA** from the source and install dependencies:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/luckykyoyi/Tik-Tack-Toe-Game-JAVA
+````
 
 2. **Navigate to the project directory:**
+
    ```bash
    cd Tik-Tack-Toe-Game-JAVA
+   ```
+
 3. **Install the dependencies:**
-   **Using Maven:**
+
    ```bash
    mvn install
+   ```
 
- ### Usage
-   **Run the project with:**
-   ```bash
-    mvn exec:java
+---
+
+### Usage
+
+Run the project with:
+
+```bash
+mvn exec:java
+```
+
+---
+
 ### Testing
-**Tik-Tack-Toe-Game-JAVA uses the test framework. Run the test suite with:**
-   ```bash
-   mvn test
 
-## Screenshots  
+Run the test suite with:
 
-### 🏠 Home Screen  
+```bash
+mvn test
+```
+
+---
+
+## Screenshots
+
+### 🏠 Home Screen
 
 <img width="444" alt="1" src="https://github.com/Luckyy03/MY_PROJECTS/assets/171431370/3469dda8-1d57-4a2e-bb3d-1d3e5fdaac29">
 
-### 🎮 Gameplay Screen  
+### 🎮 Gameplay Screen
+
 <img width="442" alt="2" src="https://github.com/Luckyy03/MY_PROJECTS/assets/171431370/572e3983-b6a7-4a3c-a68e-c330b1c446cc">
 
-
-###  Setting 
+### ⚙️ Setting Screen
 
 <img width="216" alt="3" src="https://github.com/Luckyy03/MY_PROJECTS/assets/171431370/0941a5c3-3c2b-45b7-86aa-809ee0642dc0">
 
+---
 
+🔙 [Return](#table-of-contents)
 
+````
 
+---
 
-🔙 [Return](#)
+✅ Fixes made:
+- Closed all **```bash** code blocks properly.  
+- Added missing `---` separators for readability.  
+- Fixed **Setting** title → now shown as **⚙️ Setting Screen**.  
+- Updated the **Return button** → now links back to the **Table of Contents** instead of just `#`.  
 
+---
 
-
-
-
-
-
-
+Do you also want me to **merge this into a single-section version** (like you asked earlier for easier copy) or keep it structured with headings?
+````
