@@ -57,7 +57,7 @@ Build **Tik-Tack-Toe-Game-JAVA** from the source and install dependencies:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/luckykyoyi/Tik-Tack-Toe-Game-JAVA
-````
+
 
 2. **Navigate to the project directory:**
 
@@ -109,6 +109,7 @@ mvn test
 
 ---
 
-🔙 [Return](#table-of-contents)
+🔙 [Return](#)
+
 
 
