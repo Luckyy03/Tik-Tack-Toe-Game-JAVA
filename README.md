@@ -1,4 +1,61 @@
-# MY_PROJECTS
+# TIK-TACK-TOE-GAME-JAVA
+
+*Master Strategy. Conquer the Classic Game Instantly*
+
+![GitHub last commit](https://img.shields.io/github/last-commit/luckykyoyi/Tik-Tack-Toe-Game-JAVA)
+![Language](https://img.shields.io/badge/language-Java-blue)
+![License](https://img.shields.io/github/license/luckykyoyi/Tik-Tack-Toe-Game-JAVA)
+
+Built with the tools and technologies:
+
+---
+
+## Table of Contents
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
+
+---
+
+## Overview
+
+**Tik-Tack-Toe-Game-JAVA** is a robust Java application that combines core game mechanics with a user-friendly graphical interface, making it easy to develop, extend, and customize a classic Tic-Tac-Toe game.
+
+### Why Tik-Tack-Toe-Game-JAVA?
+
+This project streamlines the development of interactive, GUI-based games with a clean, modular architecture.  
+The core features include:
+
+- 🎮 **Game Logic & Mechanics**: Manages turn-based gameplay, winner detection, and game resets for a smooth user experience.  
+- 🎨 **Customizable UI**: Offers settings for themes and sounds, enhancing personalization.  
+- 💾 **Data Persistence**: Supports saving and loading game data through integrated file handling.  
+- 🔄 **Seamless Navigation**: Manages window transitions and layout for intuitive user flow.  
+- ❓ **Help & Guidance**: Provides accessible instructions and support within the interface.  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+This project requires the following dependencies:
+
+- **Programming Language**: Java  
+- **Package Manager**: Maven  
+
+---
+
+### Installation
+
+Build **Tik-Tack-Toe-Game-JAVA** from the source and install dependencies:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/luckykyoyi/Tik-Tack-Toe-Game-JAVA
+
 
 
 <img width="444" alt="1" src="https://github.com/Luckyy03/MY_PROJECTS/assets/171431370/3469dda8-1d57-4a2e-bb3d-1d3e5fdaac29">
